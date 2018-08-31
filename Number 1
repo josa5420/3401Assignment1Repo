@@ -1,3 +1,8 @@
 Number 1
 This one just got changed, watch out
+<<<<<<< HEAD
 Something here again- kEXIN
+=======
+Im making a change right now
+Another change right now
+>>>>>>> d7bc93dc28533a9c03b55c4f48244c621d76decb
